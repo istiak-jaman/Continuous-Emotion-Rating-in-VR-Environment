@@ -1,0 +1,9 @@
+node|baby-1
+video|intro
+quiz|5%|To what extent did you feel like you were in the virtual environment?|5|1|Not at all|ipq|1|Slightly|ipq|1|Fairly|ipq|1|Very|ipq|1|Very much|ipq
+quiz|0%|To what extent were you emotionally involved in the virtual environment?|5|1|Not at all|ipq|1|Slightly|ipq|1|Fairly|ipq|1|Very|ipq|1|Very much|ipq
+quiz|0%|To what extent were the graphics in the rating interface believable?|5|1|Not at all|ipq|1|Slightly|ipq|1|Fairly|ipq|1|Very|ipq|1|Very much|ipq
+quiz|0%|To what extent did you experience discomfort while annotating the emotion?|5|1|Not at all|questionnaire|1|Slightly|questionnaire|1|Fairly|questionnaire|1|Very|questionnaire|1|Very much|questionnaire
+
+
+

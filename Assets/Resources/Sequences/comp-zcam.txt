@@ -1,0 +1,4 @@
+node|comp-zcam
+video|zcam-comp
+quiz|1%|Just so you know, this is the ZCam|1|1|Okay, got it|
+quiz|100%|Where do you want to go?|4|1|See the Insta Camera|comp-insta|1|Regular lab vids|lab-240|1|Give a feedback|questionnaire|1|Back to intro|intro

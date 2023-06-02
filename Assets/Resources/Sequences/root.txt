@@ -1,0 +1,4 @@
+node|rootNode
+video|intro
+quiz|10%|Where do you want to go?|4|1|Baby's House|baby-1|1|The Lab|lab-103|1|Compare Cameras|comp-zcam|1|The Forest|the-forest
+randomize|1

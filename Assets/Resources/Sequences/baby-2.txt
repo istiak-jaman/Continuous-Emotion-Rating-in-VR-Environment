@@ -1,0 +1,3 @@
+node|babycry-2
+video|baby-cry-2
+quiz|100%|Where do you want to go?|2|1|The Bedroom|baby-1|1|Back to Intro|root

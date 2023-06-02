@@ -1,0 +1,4 @@
+node|comp-insta
+video|insta-comp
+quiz|1%|Just so you know, this is the Insta Camera|1|1|Okay, got it|
+quiz|100%|Where do you want to go?|3|1|See the ZCam Camera|comp-zcam|1|Watch a baby cry|baby-1|1|Back to intro|intro

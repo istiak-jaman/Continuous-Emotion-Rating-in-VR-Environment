@@ -1,0 +1,6 @@
+node|baby-1
+video|intro
+quiz|5%|How mentally demanding was the task?|5|1|Not at all|ipq|1|Slightly|ipq|1|Fairly|ipq|1|Very|ipq|1|Very High|ipq
+quiz|0%|How physically demanding was the task?|5|1|Not at all|ipq|1|Slightly|ipq|1|Fairly|ipq|1|Very|ipq|1|Very High|ipq
+quiz|0%|How successful were you in accomplishing what you were asked to do?|5|1|Not at all|ipq|1|Slightly|ipq|1|Fairly|ipq|1|Very|ipq|1|Very High|ipq
+quiz|0%|How insecure, discouraged, irritated, stressed, and annoyed were you?|5|1|Not at all|questionnaire|1|Slightly|questionnaire|1|Fairly|questionnaire|1|Very|questionnaire|1|Very High|questionnaire
